@@ -66,7 +66,7 @@
 
 > "努力が習慣となり 習慣が性格を作る"
 
- [[作業日誌リンク]](https://github.com/yukimasa0705/math_vector_to_matrix/main/dailyReport))
+ [[作業日誌リンク]](https://github.com/yukimasa0705/math_vector_to_matrix/blob/main/dailyReport))
 
 ここをクリックすれば、プロジェクトの進行や日々の作業メモを簡単に確認できます。進捗やアイデアを管理するために活用しています。
 
