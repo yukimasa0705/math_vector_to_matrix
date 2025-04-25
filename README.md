@@ -12,6 +12,20 @@
 - 将来的なデータサイエンス、3D図面変換など実用的スキルに繋げる
 
 ---
+## 📚 目次
+
+- [第1章：ベクトルの基礎（vector_portfolio_ready.ipynb）](https://github.com/yukimasa0705/math_vector_to_matrix/blob/main/vector_portfolio_ready.ipynb)  
+  ベクトルの定義、成分表示、演算、正規化、可視化まで網羅。
+
+- [第2章：内積・外積（前編）（vector_inner_outer_product.ipynb）](https://github.com/yukimasa0705/math_vector_to_matrix/blob/main/vector_inner_outer_product.ipynb)  
+  内積の定義・意味、なす角、直交性、Pythonによる計算。
+
+- [第2章：内積・外積（後編）（vector_inner_outer_product2.ipynb）](https://github.com/yukimasa0705/math_vector_to_matrix/blob/main/vector_inner_outer_product2.ipynb)  
+  外積（クロス積）の意味・図形との関係、法線ベクトルの可視化。
+
+- [Google Colab版 総合ノート（vector_colab_notebook.ipynb）](https://github.com/yukimasa0705/math_vector_to_matrix/blob/main/vector_colab_notebook.ipynb)  
+  Colabで一発実行できるまとめノート。インストール不要で便利！
+
 
 ## 🧭 ロードマップ（更新予定含む）
 
